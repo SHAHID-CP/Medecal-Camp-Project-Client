@@ -7,9 +7,7 @@ A modern and responsive web application to manage and organize medical camps sea
 ## 🌐 Live Site
 🔗 [Visit the Live Website](https://comfy-peony-c583b0.netlify.app)
 
-## 👨‍⚕️ Organizer Credentials
-- **Username (Email):** `admin@gmail.com`
-- **Password:** `Admin1`
+
 
 ---
 
