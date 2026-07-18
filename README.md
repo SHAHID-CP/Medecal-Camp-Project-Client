@@ -3,7 +3,8 @@
 A modern and responsive web application to manage and organize medical camps seamlessly. From registration to payment, confirmation, and participant feedback — everything in one place.
 
 ---
-
+![Banner](https://i.ibb.co/Xx8TmmN5/ban.png)
+---
 ## 🌐 Live Site
 🔗 [Visit the Live Website](https://comfy-peony-c583b0.netlify.app)
 
